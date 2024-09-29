@@ -1,2 +1,2 @@
-t booking platform.
+Flight booking platform in kenya.
 Lets travel safely around the Globe.
