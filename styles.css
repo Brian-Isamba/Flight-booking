@@ -8,6 +8,7 @@
   --extra-light: #f3f4f6;
   --white: #ffffff;
   --max-width: 1200px;
+  --font-family: "poppins";
 }
 
 * {
@@ -35,6 +36,7 @@
   margin-inline: auto;
   color: var(--text-light);
   text-align: center;
+  font-family: "poppins",serif; 
 }
 
 .btn {
