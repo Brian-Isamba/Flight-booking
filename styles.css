@@ -99,7 +99,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: var(--primary-color);
+  background-color: blue;
 }
 
 .nav__logo .logo {
